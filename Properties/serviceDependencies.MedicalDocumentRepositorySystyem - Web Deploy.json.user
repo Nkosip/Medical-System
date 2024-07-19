@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2024-06-20T11:11:40.7509588Z"
+    },
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2024-06-20T11:12:34.4436846Z"
+    }
+  },
+  "parameters": {
+    "storage1.resourceGroupName": {
+      "Name": "storage1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "CDRSRecords"
+    },
+    "storage1.subscriptionId": {
+      "Name": "storage1.subscriptionId",
+      "Type": "subscription",
+      "Value": "5a31f263-3960-4161-8fb6-bbfae5905692"
+    }
+  }
+}
